@@ -1,0 +1,52 @@
+{
+  "data": [
+    {
+      "id": "1",
+      "location": "Trường Đại học Ngân Hàng",
+      "uesdById": "028639477783",
+      "status": 1
+    },
+    {
+      "id": "2",
+      "location": "Trường Đại học Sư Phạm Kỹ Thuật",
+      "uesdById": "749692129382",
+      "status": 1
+    },
+    {
+      "id": "3",
+      "location": "Kí túc xá Đại học Ngân hàng",
+      "uesdById": "320203413022",
+      "status": 1
+    },
+    {
+      "id": "4",
+      "location": "Trường Cao đẳng Nghề TP.HCM",
+      "uesdById": "",
+      "status": 0
+    },
+    {
+      "id": "5",
+      "location": "Nhà sách Nguyễn Văn Cừ",
+      "uesdById": "859647728663",
+      "status": 1
+    },
+    {
+      "id": "6",
+      "location": "VinCom Thủ Đức",
+      "uesdById": "",
+      "status": 0
+    },
+    {
+      "id": "7",
+      "location": "Nhà máy nước Thủ Đức",
+      "uesdById": "342933642935",
+      "status": 1
+    },
+    {
+      "id": "8",
+      "location": "Trung tâm bảo hành Samsung",
+      "uesdById": "073108841254",
+      "status": 1
+    }
+  ]
+}

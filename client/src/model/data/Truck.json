@@ -1,0 +1,46 @@
+{
+  "data": [
+    {
+      "id": "1",
+      "location": "Shop quần áo Yame",
+      "uesdById": "072000001235",
+      "status": 1
+    },
+    {
+      "id": "2",
+      "location": "VinCom Thủ Đức",
+      "uesdById": "",
+      "status": 0
+    },
+    {
+      "id": "3",
+      "location": "Kí túc xá Đại học Ngân hàng",
+      "uesdById": "308204729724",
+      "status": 1
+    },
+    {
+      "id": "4",
+      "location": "Nhà máy nước Thủ Đức",
+      "uesdById": "397474090704",
+      "status": 1
+    },
+    {
+      "id": "5",
+      "location": "Trường Đại học Ngân Hàng",
+      "uesdById": "308098049114",
+      "status": 1
+    },
+    {
+      "id": "6",
+      "location": "Trung tâm bảo hành Samsung",
+      "uesdById": "092740727500",
+      "status": 1
+    },
+    {
+      "id": "7",
+      "location": "Trường Đại học Sư Phạm Kỹ Thuật",
+      "uesdById": "",
+      "status": 0
+    }
+  ]
+}

@@ -1,0 +1,58 @@
+{
+  "data": [
+    {
+      "id": "1",
+      "name": "Trường Đại học Ngân Hàng",
+      "percentage": 80,
+      "lastCollected": "20/12/2021, 02:00:00"
+    },
+    {
+      "id": "2",
+      "name": "Trường Đại học Sư Phạm Kỹ Thuật",
+      "percentage": 100,
+      "lastCollected": "20/12/2021, 04:00:00"
+    },
+    {
+      "id": "3",
+      "name": "Kí túc xá Đại học Ngân hàng",
+      "percentage": 60,
+      "lastCollected": "20/12/2021, 03:00:00"
+    },
+    {
+      "id": "4",
+      "name": "Trường Cao đẳng Nghề TP.HCM",
+      "percentage": 80,
+      "lastCollected": "20/12/2021, 05:00:00"
+    },
+    {
+      "id": "5",
+      "name": "Nhà sách Nguyễn Văn Cừ",
+      "percentage": 100,
+      "lastCollected": "20/11/2021, 07:00:00"
+    },
+    {
+      "id": "6",
+      "name": "VinCom Thủ Đức",
+      "percentage": 80,
+      "lastCollected": "20/12/2021, 06:00:00"
+    },
+    {
+      "id": "7",
+      "name": "Nhà máy nước Thủ Đức",
+      "percentage": 100,
+      "lastCollected": "04/10/2022, 09:30:00"
+    },
+    {
+      "id": "8",
+      "name": "Trung tâm bảo hành Samsung",
+      "percentage": 0,
+      "lastCollected": "07/10/2022, 06:30:00"
+    },
+    {
+      "id": "9",
+      "name": "Shop quần áo Yame",
+      "percentage": 65,
+      "lastCollected": "08/11/2022, 09:30:00"
+    }
+  ]
+}

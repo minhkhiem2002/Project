@@ -1,0 +1,26 @@
+{
+  "data": [
+    {
+      "id": "100020003000",
+      "username": "lebichnghi2002",
+      "email": "lebichnghi2002@gmail.com",
+      "firstName": "Bích Nghi",
+      "lastName": "Lê",
+      "password": "bichnghi2410@",
+      "birthDate": "24/10/2002",
+      "avatar": "https://i0.wp.com/thatnhucuocsong.com.vn/wp-content/uploads/2022/09/avatar-doremon-1.jpg?ssl=1",
+      "memberSince": "27/01/2021"
+    },
+    {
+      "id": "100020003001",
+      "username": "leminhkhiem110",
+      "email": "leminhkhiem110@gmail.com",
+      "firstName": "Minh Khiêm",
+      "lastName": "Lê",
+      "password": "minhkhiem1403@",
+      "birthDate": "24/10/2002",
+      "avatar": "https://i0.wp.com/thatnhucuocsong.com.vn/wp-content/uploads/2022/09/avatar-doremon-1.jpg?ssl=1",
+      "memberSince": "27/01/2021"
+    }
+  ]
+}
